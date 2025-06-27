@@ -62,7 +62,7 @@ class Test_carwale(BaseTest):
         if carBrand == "Mahindra":
             home.gotoNewCars().selectMahindra()
             title = car.getCarTitle()
-            print(("car title is: "+title).encode('utf8git'))
+            print(("car title is: "+title).encode('utf8'))
             assert title == carTitle, "The title is not matching"
             car.carNameAndPrices()
             # car.carNameAndPrices(path,sheetname)
