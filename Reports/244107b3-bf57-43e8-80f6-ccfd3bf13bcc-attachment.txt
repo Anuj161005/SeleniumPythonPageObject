@@ -1,0 +1,4 @@
+[32mINFO    [0m Testcases.test_carwale:test_carwale.py:57 *********Inside Cars names and prices Test**********
+[32mINFO    [0m Pages.BasePage:BasePage.py:60 moving to the Element: newCar_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:24 Clicking on the Element: findNewCar_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:24 Clicking on the Element: hyundai_XPATH

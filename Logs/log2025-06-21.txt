@@ -1,0 +1,25 @@
+2025-06-21 18:05:50,549 - test_SignUp.py:[15] - [INFO] - Test Do Sign Up Started
+2025-06-21 18:06:02,458 - test_SignUp.py:[15] - [INFO] - Test Do Sign Up Started
+2025-06-21 18:07:26,468 - test_SignUp.py:[15] - [INFO] - Test Do Sign Up Started
+2025-06-21 18:08:42,689 - test_SignUp.py:[15] - [INFO] - Test Do Sign Up Started
+2025-06-21 18:08:54,018 - test_SignUp.py:[15] - [INFO] - Test Do Sign Up Started
+2025-06-21 18:10:23,219 - test_SignUp.py:[15] - [INFO] - Test Do Sign Up Started
+2025-06-21 18:10:23,372 - BasePage.py:[35] - [INFO] - Typing in the Element: name_XPATHValue Entered as :Anuj Badale
+2025-06-21 18:10:23,539 - BasePage.py:[35] - [INFO] - Typing in the Element: phone_XPATHValue Entered as :928357036
+2025-06-21 18:10:23,673 - BasePage.py:[35] - [INFO] - Typing in the Element: email_XPATHValue Entered as :anujbadale1998@gmail.com
+2025-06-21 18:10:23,783 - BasePage.py:[48] - [INFO] - Selecting from the Element: country_XPATHValue Selected as :India
+2025-06-21 18:10:23,891 - BasePage.py:[35] - [INFO] - Typing in the Element: city_XPATHValue Entered as :Mumbai
+2025-06-21 18:10:24,036 - BasePage.py:[35] - [INFO] - Typing in the Element: username_XPATHValue Entered as :AnujBadale
+2025-06-21 18:10:24,404 - BasePage.py:[35] - [INFO] - Typing in the Element: password_XPATHValue Entered as :323asdcs
+2025-06-21 18:10:24,528 - BasePage.py:[25] - [INFO] - Clicking on the Element: submit_XPATH
+2025-06-21 18:10:24,528 - test_SignUp.py:[18] - [INFO] - Test Do Sign Up Successfully executed
+2025-06-21 18:10:35,058 - test_SignUp.py:[15] - [INFO] - Test Do Sign Up Started
+2025-06-21 18:10:35,206 - BasePage.py:[35] - [INFO] - Typing in the Element: name_XPATHValue Entered as :Anuj Badale
+2025-06-21 18:10:35,250 - BasePage.py:[35] - [INFO] - Typing in the Element: phone_XPATHValue Entered as :928357036
+2025-06-21 18:10:35,308 - BasePage.py:[35] - [INFO] - Typing in the Element: email_XPATHValue Entered as :anujbadale1998@gmail.com
+2025-06-21 18:10:35,422 - BasePage.py:[48] - [INFO] - Selecting from the Element: country_XPATHValue Selected as :India
+2025-06-21 18:10:35,479 - BasePage.py:[35] - [INFO] - Typing in the Element: city_XPATHValue Entered as :Mumbai
+2025-06-21 18:10:35,522 - BasePage.py:[35] - [INFO] - Typing in the Element: username_XPATHValue Entered as :AnujBadale
+2025-06-21 18:10:35,571 - BasePage.py:[35] - [INFO] - Typing in the Element: password_XPATHValue Entered as :323asdcs
+2025-06-21 18:10:35,854 - BasePage.py:[25] - [INFO] - Clicking on the Element: submit_XPATH
+2025-06-21 18:10:35,854 - test_SignUp.py:[18] - [INFO] - Test Do Sign Up Successfully executed
